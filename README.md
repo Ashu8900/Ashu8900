@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Ashu8900
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ashu8900/Ashu8900 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table border>
+    <tr>     
+        <td>
+            <a href="mailto:ashutosh.vs@somaiya.edu">📫 Email</a>
+        </td>
+   </tr>
+   <tr>
+        <td colspan="3">
+            <img src="https://activity-graph.herokuapp.com/graph?username=ashu8900&bg_color=161515&color=ebdbb2&line=8ec07c&point=d3869b&area=true&hide_border=true" />
+        </td>
+   </tr>
+</table>
